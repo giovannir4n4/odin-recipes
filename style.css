@@ -1,0 +1,35 @@
+.title {
+    text-align: center;
+    background-color: red;
+    color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-weight: 800;
+    font-size: 35px;
+}
+
+.recipe {
+    margin-left: 47%;
+    color: white;
+    font-size: 30px;
+}
+
+span {
+    size: 100cm;
+    background-color: green;
+}
+
+a:link {
+    color: white;
+}
+
+#giovannirana {
+    margin-top: -1%;
+    margin-left: 45%;
+    width: max-content;
+}
+
+#bkgrd {
+    background-image: url(./images/italianbkgrd.jpeg);
+    margin-left: auto;
+}
