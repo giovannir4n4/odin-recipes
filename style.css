@@ -15,6 +15,7 @@
 }
 
 span {
+    color: white;
     size: 100cm;
     background-color: green;
 }
@@ -31,5 +32,20 @@ a:link {
 
 #bkgrd {
     background-image: url(./images/italianbkgrd.jpeg);
-    margin-left: auto;
+    margin-left: 0cm;
+}
+
+ /* Css for the recipe page */
+
+ .img#lasagna {
+    margin-top: -1%;
+    margin-left: 30%;
+    width: max-content;
+}
+
+
+#bkgrd {
+    background: rgb(129, 213, 140);
+    padding: 10px;
+    text-align:justify;
 }
